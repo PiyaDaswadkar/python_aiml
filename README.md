@@ -18,6 +18,19 @@ This repository contains my daily practice programs as I learn Python, Artificia
 - Floating-point infinity
 - Built-in functions and return values
 
+## Day 02 — Type Conversion and Numeric Literals
+
+**Topics Covered:**
+- Taking user input using `input()`
+- Type checking using `type()`
+- Type conversion using `int()`
+- Arithmetic with integers and floats
+- Type errors when combining incompatible types
+- Binary, octal, decimal, and hexadecimal literals
+- Floating-point numbers
+- Scientific notation using positive and negative exponents
+
+
 ## Repository Structure
 
 ```text
